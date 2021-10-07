@@ -1,0 +1,8 @@
+{
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "v8-ax7",
+  "https": true
+}
